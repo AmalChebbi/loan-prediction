@@ -83,7 +83,7 @@ Optimizer: Adam Optimizer (learning rate = 0.001)
 
 ### Steps
 1. Clone the repository and navigate to the project folder.
-2. Run the Jupyter Notebook (`Project.ipynb`) or execute the Python scripts.
+2. Run the Jupyter Notebook (`Project.ipynb`).
 3. Test predictions will be saved in `test_predictions.csv`.
 
 ---
